@@ -1,0 +1,8 @@
+{
+    "dependencies": {
+        "deprecated-decorator": "^0.1.6"
+    },
+    "devDependencies": {
+        "ts-node": "^3.3.0"
+    }
+}
