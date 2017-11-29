@@ -1,5 +1,6 @@
 {
     "dependencies": {
+        "decorator-when": "^1.0.2",
         "deprecated-decorator": "^0.1.6"
     },
     "devDependencies": {

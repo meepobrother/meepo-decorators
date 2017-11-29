@@ -12,4 +12,5 @@
 -redux-decorators
 > https://github.com/KarlPurk/redux-decorators.git
 
-- deprecated-decorator
+- deprecated-decorator 用于：废弃方法或属性提醒
+- decorator-when 当满足条件时执行
